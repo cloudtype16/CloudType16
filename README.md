@@ -1,5 +1,5 @@
 ![welcome](https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png)
-
+<img src="https://cdn.discordapp.com/attachments/789607447252828211/821845774043185192/vailecito.gif"/>
 ```cs
 ⇒ 📎 Quick Introduction
 ⇒ "Eyyoo! Adicto al código, con lecciones de vida! :)"
@@ -23,7 +23,6 @@
 <img align="left" alt="jsdom" width="26px" src="https://imgur.com/znELr8P.png" /> 
 <img align="left" alt="firebase" width="26px" src="https://i.imgur.com/1RVXvxS.png" /> 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
-<img align="left" alt "vaile" width:"26px" scr="https://cdn.discordapp.com/emojis/819649206493904906.gif?v=1"/>
 
 <!-- ### Jobs
 Currently coding discord bots for payments. Send me a message on discord to discuss.<br>
