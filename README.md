@@ -1,8 +1,8 @@
 ![welcome](https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png)
 
 ```cs
-- Quick Introduction
-"Eyyoo! Adicto al código, con lecciones de vida! :)"
+⇒ 📎 Quick Introduction
+⇒ "Eyyoo! Adicto al código, con lecciones de vida! :)"
 ```
 
 - 🌱 I’m currently learning everything 🤣
