@@ -1,4 +1,4 @@
-![welcome](https://i.imgur.com/6XHBC84.png)<a href="https://discord.gg/xCCpfth"> <img src="https://imgur.com/VCWA5ud.gif" align="right"/>
+![welcome](https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png)<a href="https://discord.gg/xCCpfth"> <img src="https://imgur.com/VCWA5ud.gif" align="right"/>
 
 ```js
 <Quick Introduction>
