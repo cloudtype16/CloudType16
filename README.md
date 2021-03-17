@@ -5,12 +5,9 @@
 ⇒ "Eyyoo! Adicto al código, con lecciones de vida! :)"
 ```
 
-- 🌱 I’m currently learning everything 🤣
-- 💎 Making youtube videos.
-- 📣 Projects mantained by me: [reconlx](https://www.npmjs.com/package/reconlx), [vscode-sourcebin-uploader](https://marketplace.visualstudio.com/items?itemName=LimXuan.sourcebin-uploader)
-- ⚡ Fun fact: I coded a discord bot. It got verified by discord.<br />
+- 📣 [Invitacion De Mi Bot](https://discord.com/oauth2/authorize?client_id=803041063862009876&scope=bot&permissions=2147483639)
 
-### 🛠 Idiomas y herramientas🌎
+### 🛠 Idiomas y herramientas 🌎
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
