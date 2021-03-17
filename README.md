@@ -1,9 +1,5 @@
 ![welcome](https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png)
-
-
-
-
-
+<a href="https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png"> 
 
 ```js
 <Quick Introduction>
