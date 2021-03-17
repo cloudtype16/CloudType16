@@ -1,11 +1,11 @@
-![welcome](https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png)
+<img align="left" src="https://cdn.discordapp.com/attachments/789607447252828211/821846981227315270/a.gif"/> ![welcome](https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png)
 <img align="right" src="https://cdn.discordapp.com/attachments/789607447252828211/821845774043185192/vailecito.gif"/>
 ```cs
 ⇒ 📎 Quick Introduction
 ⇒ "Eyyoo! Adicto al código, con lecciones de vida! :)"
 ```
 
-- ⬤● <img align="left"  width="10px" src="https://cdn.discordapp.com/attachments/789607447252828211/821846981227315270/a.gif"/> **No Dude En Invitar A Mi Bot:**
+- ⬤● **No Dude En Invitar A Mi Bot:**
 - 📣 [Invitacion De Mi Bot](https://discord.com/oauth2/authorize?client_id=803041063862009876&scope=bot&permissions=2147483639)
 - ⬤● **Si Tienes Alguna Duda Unete Al Server De Soporte De Mi Bot:**
 - 🔧 [Invitacion Del Server](https://discord.gg/2qB7bhsQ9M)
