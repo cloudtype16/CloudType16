@@ -10,7 +10,7 @@
 - 📣 Projects mantained by me: [reconlx](https://www.npmjs.com/package/reconlx), [vscode-sourcebin-uploader](https://marketplace.visualstudio.com/items?itemName=LimXuan.sourcebin-uploader)
 - ⚡ Fun fact: I coded a discord bot. It got verified by discord.<br />
 
-### Idiomas y herramientas:
+### 🛠 Idiomas y herramientas🌎
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
