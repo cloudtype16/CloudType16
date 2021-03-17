@@ -4,7 +4,7 @@
 
 
 ```cs
-⇒ 📎 Quick Introduction
+⇒ 📎 Introduccion Rapida!
 ⇒ "Eyyoo! Adicto al código, con lecciones de vida! :)"
 ```
 
