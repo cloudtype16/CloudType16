@@ -12,6 +12,8 @@
 - 📣 [Invitacion De Mi Bot](https://discord.com/oauth2/authorize?client_id=803041063862009876&scope=bot&permissions=2147483639)
 - ⬤● **Si Tienes Alguna Duda Unete Al Server De Soporte De Mi Bot:**
 - 🔧 [Invitacion Del Server](https://discord.gg/2qB7bhsQ9M)
+--
+- ✨ [Mis Repositorios](https://github.com/AzucarMorena2006?tab=repositories)
 
 <img  width="1000px" src="https://cdn.discordapp.com/attachments/717821702180044862/729449197153157160/BARRA.gif"/>
 
