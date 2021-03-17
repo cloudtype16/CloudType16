@@ -1,4 +1,4 @@
-<img align="left" width="50px" src="https://cdn.discordapp.com/attachments/789607447252828211/821846981227315270/a.gif"/><img src="https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png"/>
+<img align="left" width="45px" src="https://cdn.discordapp.com/attachments/789607447252828211/821846981227315270/a.gif"/><img src="https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png"/>
 
 <img align="right" src="https://cdn.discordapp.com/attachments/789607447252828211/821845774043185192/vailecito.gif">
 
