@@ -23,6 +23,7 @@
 <img align="left" alt="jsdom" width="26px" src="https://imgur.com/znELr8P.png" /> 
 <img align="left" alt="firebase" width="26px" src="https://i.imgur.com/1RVXvxS.png" /> 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
+<img align="left" alt "vaile" width:"26px" scr="https://cdn.discordapp.com/emojis/819649206493904906.gif?v=1"/>
 
 <!-- ### Jobs
 Currently coding discord bots for payments. Send me a message on discord to discuss.<br>
@@ -31,5 +32,3 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ---
 
 **© [AzucarMorena2006](https://github.com/AzucarMorena2006)**
-
-<img scr="https://cdn.discordapp.com/emojis/819649206493904906.gif?v=1"/>
