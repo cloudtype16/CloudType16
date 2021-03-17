@@ -13,7 +13,7 @@
 - ⬤● **Si Tienes Alguna Duda Unete Al Server De Soporte De Mi Bot:**
 - 🔧 [Invitacion Del Server](https://discord.gg/2qB7bhsQ9M)
 
-<img src="https://cdn.discordapp.com/attachments/717821702180044862/729449197153157160/BARRA.gif"/>
+<img  width="100px" src="https://cdn.discordapp.com/attachments/717821702180044862/729449197153157160/BARRA.gif"/>
 
 ### 🛠 __Idiomas y herramientas__ 🌎
 
