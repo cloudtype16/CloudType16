@@ -1,4 +1,4 @@
-![welcome](https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png)<a href="https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png"> <img src="https://cdn.discordapp.com/attachments/789607447252828211/821836605760733255/a.gif" align="https://discord.gg/2qB7bhsQ9M"/>
+![welcome](https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png)<a href="https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png"> <img src="https://cdn.discordapp.com/attachments/789607447252828211/821836605760733255/a.gif" align="right"/>
 
 ```js
 <Quick Introduction>
