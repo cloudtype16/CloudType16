@@ -1,5 +1,4 @@
 ![welcome](https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png)
-[https://cdn.discordapp.com/attachments/789607447252828211/821836605760733255/a.gif](https://discord.gg/2qB7bhsQ9M)
 
 ```js
 <Quick Introduction>
