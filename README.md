@@ -18,7 +18,7 @@
 
 <img  width="1000px" src="https://cdn.discordapp.com/attachments/717821702180044862/729449197153157160/BARRA.gif"/>
 
-### 🛠 __Idiomas y herramientas__ 🌎
+### 🛠 ***Idiomas y Herramientas*** 🌎
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
