@@ -1,5 +1,4 @@
-![welcome](https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png)
-<img scr="https://cdn.discordapp.com/emojis/819649206493904906.gif?v=1"/>
+![welcome](https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png)<img scr="https://cdn.discordapp.com/emojis/819649206493904906.gif?v=1"/>
 
 ```cs
 ⇒ 📎 Quick Introduction
