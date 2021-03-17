@@ -1,4 +1,4 @@
-<img align="left" width="50px" src="https://cdn.discordapp.com/attachments/789607447252828211/821846981227315270/a.gif"/> ![welcome](https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png) <img align="left" width="50px" src="https://cdn.discordapp.com/attachments/789607447252828211/821848320796131368/a.gif"/>
+<img align="left" width="50px" src="https://cdn.discordapp.com/attachments/789607447252828211/821846981227315270/a.gif"/><img src="https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png"/><img align="left" width="50px" src="https://cdn.discordapp.com/attachments/789607447252828211/821848320796131368/a.gif"/>
 <img align="right" src="https://cdn.discordapp.com/attachments/789607447252828211/821845774043185192/vailecito.gif"/>
 ```cs
 ⇒ 📎 Quick Introduction
