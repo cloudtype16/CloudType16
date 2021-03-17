@@ -1,5 +1,5 @@
 ![welcome](https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png)
-<img src="https://cdn.discordapp.com/attachments/789607447252828211/821845774043185192/vailecito.gif"/>
+<img aling:"right" src="https://cdn.discordapp.com/attachments/789607447252828211/821845774043185192/vailecito.gif"/>
 ```cs
 ⇒ 📎 Quick Introduction
 ⇒ "Eyyoo! Adicto al código, con lecciones de vida! :)"
