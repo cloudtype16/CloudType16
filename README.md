@@ -5,9 +5,12 @@
 ⇒ "Eyyoo! Adicto al código, con lecciones de vida! :)"
 ```
 
+- ⬤● **No Dude En Invitar A Mi Bot:**
 - 📣 [Invitacion De Mi Bot](https://discord.com/oauth2/authorize?client_id=803041063862009876&scope=bot&permissions=2147483639)
+- ⬤● **Si Tienes Alguna Duda Unete Al Server De Soporte De Mi Bot:**
+- 🔧 [Invitacion Del Server](https://discord.gg/2qB7bhsQ9M)
 
-### 🛠 Idiomas y herramientas 🌎
+### 🛠 __Idiomas y herramientas__ 🌎
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
@@ -16,7 +19,6 @@
 <img align="left" alt="py" width="26px" src="https://i.imgur.com/4pIzF9V.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 <img align="left" alt="jsdom" width="26px" src="https://imgur.com/znELr8P.png" /> 
-<!-- <img align="left" alt="mongodb" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />  -->
 <img align="left" alt="firebase" width="26px" src="https://i.imgur.com/1RVXvxS.png" /> 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
 
@@ -25,5 +27,4 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 (Reputation) -> [epicnpc.com](https://www.epicnpc.com/members/reconlx.1167846/)<br /> -->
 
 ---
-
 **© [AzucarMorena2006](https://github.com/AzucarMorena2006)**
