@@ -15,6 +15,7 @@
 <img width="500px" src="https://cdn.discordapp.com/attachments/757469877358297199/760358338809561118/linea-divisoria-imagen-animada-0133.gif"/>
 
 - ✨ [Mis Repositorios](https://github.com/AzucarMorena2006?tab=repositories)
+- 💨 Mi Discord: Mr Pajasツ 2.0#1234
 
 <img  width="1000px" src="https://cdn.discordapp.com/attachments/717821702180044862/729449197153157160/BARRA.gif"/>
 
