@@ -1,10 +1,10 @@
-![welcome](https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png)<a href="https://discord.gg/xCCpfth"> <img src="https://imgur.com/VCWA5ud.gif" align="right"/>
+![welcome](https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png)<a href="https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png"> <img src="https://imgur.com/VCWA5ud.gif" align="right"/>
 
 ```js
 <Quick Introduction>
 Eyyoo! Code addict, with life lessons :).
 ```
-
+https://discord.gg/2qB7bhsQ9M
 - 🌱 I’m currently learning everything 🤣
 - 💎 Making youtube videos.
 - 📣 Projects mantained by me: [reconlx](https://www.npmjs.com/package/reconlx), [vscode-sourcebin-uploader](https://marketplace.visualstudio.com/items?itemName=LimXuan.sourcebin-uploader)
