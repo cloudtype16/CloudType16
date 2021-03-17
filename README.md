@@ -16,7 +16,7 @@
 
 - ✨ [Mis Repositorios](https://github.com/AzucarMorena2006?tab=repositories)
 
-<img  width="1000px" src="https://cdn.discordapp.com/attachments/717821702180044862/729449197153157160/BARRA.gif"/>
+<img  width="500px" src="https://cdn.discordapp.com/attachments/717821702180044862/729449197153157160/BARRA.gif"/>
 
 ### 🛠 __Idiomas y herramientas__ 🌎
 
