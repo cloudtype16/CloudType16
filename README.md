@@ -16,6 +16,7 @@
 
 - ✨ [Mis Repositorios](https://github.com/AzucarMorena2006?tab=repositories)
 - 💨 **Mi Discord: Mr Pajasツ 2.0#1234**
+- [<img align="left" alt="is-really.fun" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <img  width="1000px" src="https://cdn.discordapp.com/attachments/717821702180044862/729449197153157160/BARRA.gif"/>
 
