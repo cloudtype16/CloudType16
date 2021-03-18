@@ -1,4 +1,4 @@
-<img align="left" width="45px" src="https://cdn.discordapp.com/attachments/789607447252828211/821846981227315270/a.gif"/><img src="https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png"/>
+<img align="left" width="45px" src="https://cdn.discordapp.com/attachments/789607447252828211/821846981227315270/a.gif"/>[<img src="https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png"/>][server]
 
 <img align="right" width="200px" src="https://cdn.discordapp.com/attachments/789607447252828211/821845774043185192/vailecito.gif">
 
@@ -43,3 +43,4 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 **© [AzucarMorena2006](https://github.com/AzucarMorena2006)**
 
 [website]: https://is-really.fun
+[server]: https://discord.gg/2qB7bhsQ9M
