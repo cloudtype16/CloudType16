@@ -1,6 +1,5 @@
 <img align="left" width="45px" src="https://cdn.discordapp.com/attachments/789607447252828211/821846981227315270/a.gif"/><img src="https://cdn.discordapp.com/attachments/789607447252828211/821828392948727848/name2-removebg-preview.png"/>
 [<img align="rigth" src="https://cdn.discordapp.com/attachments/789607447252828211/822167211531304990/350kb.gif"/>][server]
-<p></p>
 <img align="right" width="200px" src="https://cdn.discordapp.com/attachments/789607447252828211/821845774043185192/vailecito.gif">
 
 
@@ -48,6 +47,14 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AzucarMorena2006&show_icons=true&include_all_commits=true&hide_border=true&theme=merko&locale=es&title_color=D358F7&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000"/>
 <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzucarMorena2006&layout=&hide_border=true&theme=merko&locale=es&title_color=D358F7&&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000"/>
+
+### Mis Mejores Repositorios
+<a href="https://github.com/AzucarMorena2006/comando-avatar-discord.js">
+  <img align="center" src=""/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzucarMorena2006&repo=comando-avatar-discord.js&locale=es&title_color=D358F7&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000" />
+</a>
 
 **© [AzucarMorena2006](https://github.com/AzucarMorena2006)**
 
