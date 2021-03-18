@@ -49,7 +49,7 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 
 ### ✨ [Mis Repositorios](https://github.com/AzucarMorena2006?tab=repositories)
 <a href="https://github.com/AzucarMorena2006/comando-avatar-discord.js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzucarMorena2006&repo=comando-avatar-discord.js&locale=es&title_color=D358F7&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzucarMorena2006&repo=comando-avatar-discord.js&locale=es&title_color=D358F7&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000&hide_border"/>
 </a>
 
 
