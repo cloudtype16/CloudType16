@@ -20,6 +20,7 @@
 ### ☢ Redes Sociales
 
 - [<img align="left" alt="is-really.fun" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+- [<img align="left" alt="HarutoHiroki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <img  width="1000px" src="https://cdn.discordapp.com/attachments/717821702180044862/729449197153157160/BARRA.gif"/>
 
@@ -46,4 +47,5 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 **© [AzucarMorena2006](https://github.com/AzucarMorena2006)**
 
 [website]: https://is-really.fun
+[twitter]: https://twitter.com/Azucarmorena28
 [server]: https://discord.gg/2qB7bhsQ9M
