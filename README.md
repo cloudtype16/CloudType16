@@ -56,6 +56,10 @@ Currently coding discord bots for payments. Send me a message on discord to disc
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzucarMorena2006&repo=div-slide&hide_border=ocult&locale=es&title_color=D358F7&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000"/>
 </a>
 
+<a href="https://azucarmorena2006.github.io/flappy-bird/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzucarMorena2006&repo=flappy-bird&hide_border=ocult&locale=es&title_color=D358F7&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000"/>
+</a>
+
 **© [AzucarMorena2006](https://github.com/AzucarMorena2006)**
 
 [website]: #
