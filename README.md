@@ -45,9 +45,8 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 
 ---
 
-<a href="https://github-readme-stats.vercel.app/api?username=AzucarMorena2006&show_icons=true&include_all_commits=true&hide_border=true&theme=merko&locale=es&title_color=D358F7&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzucarMorena2006&layout=&hide_border=true&theme=merko&locale=es&title_color=D358F7&&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000"/>
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AzucarMorena2006&show_icons=true&include_all_commits=true&hide_border=true&theme=merko&locale=es&title_color=D358F7&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000"/>
+<img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzucarMorena2006&layout=&hide_border=true&theme=merko&locale=es&title_color=D358F7&&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000"/>
 
 **© [AzucarMorena2006](https://github.com/AzucarMorena2006)**
 
