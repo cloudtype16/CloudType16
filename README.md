@@ -20,7 +20,7 @@
 ### ☢ Redes Sociales
 
 - [<img align="left" alt="is-really.fun" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-- [<img align="left" alt="HarutoHiroki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="HarutoHiroki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <img  width="1000px" src="https://cdn.discordapp.com/attachments/717821702180044862/729449197153157160/BARRA.gif"/>
 
