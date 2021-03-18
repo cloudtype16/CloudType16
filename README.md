@@ -41,3 +41,5 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzucarMorena2006&layout=&hide_border=true&theme=merko"/>
 
 **© [AzucarMorena2006](https://github.com/AzucarMorena2006)**
+
+[website]: https://is-really.fun
