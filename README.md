@@ -19,7 +19,7 @@
 
 ### ☢ Redes Sociales
 
-[<img align="left" alt="is-really.fun" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+- [<img align="left" alt="is-really.fun" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="HarutoHiroki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="HarutoHiroki | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="HarutoHiroki | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>][discord]
@@ -29,7 +29,7 @@
 
 ### 🛠 ***Idiomas y Herramientas*** 🌎
 
-- <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png"/>
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png"/>
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png"/>
 <img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png"/>
