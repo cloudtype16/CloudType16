@@ -12,9 +12,8 @@
 - 📣 [Invitacion De Mi Bot](https://discord.com/oauth2/authorize?client_id=803041063862009876&scope=bot&permissions=2147483639)
 - ⬤● **Si Tienes Alguna Duda Unete Al Server De Soporte De Mi Bot:**
 - 🔧 [Invitacion Del Server](https://discord.gg/2qB7bhsQ9M)
-<img width="500px" src="https://cdn.discordapp.com/attachments/757469877358297199/760358338809561118/linea-divisoria-imagen-animada-0133.gif"/>
-
 - 💨 **Mi Discord: Mr Pajasツ 2.0#1234**
+<img width="500px" src="https://cdn.discordapp.com/attachments/757469877358297199/760358338809561118/linea-divisoria-imagen-animada-0133.gif"/>
 
 ### ☢ Redes Sociales
 
