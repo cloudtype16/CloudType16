@@ -72,6 +72,18 @@ Currently coding discord bots for payments. Send me a message on discord to disc
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzucarMorena2006&repo=gato&hide_border=ocult&locale=es&title_color=D358F7&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000"/>
 </a>
 
+<a href="https://github.com/AzucarMorena2006/Comandos-Discord.js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzucarMorena2006&repo=Comandos-Discord.js&hide_border=ocult&locale=es&title_color=D358F7&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000"/>
+</a>
+
+<a href="https://github.com/AzucarMorena2006/Estructura-handler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzucarMorena2006&repo=Estructura-handler&hide_border=ocult&locale=es&title_color=D358F7&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000"/>
+</a>
+
+<a href="https://github.com/AzucarMorena2006/estructura-inicial-de-bot-discord.js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzucarMorena2006&repo=estructura-inicial-de-bot-discord.js&locale=es&title_color=D358F7&icon_color=2EFEF7&text_color=FF0040&bg_color=DEG,240B3B,220A29,2A0A22,190714,000&hide_border=ocult"/>
+</a>
+
 **© [AzucarMorena2006](https://github.com/AzucarMorena2006)**
 
 [website]: #
