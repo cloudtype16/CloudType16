@@ -36,5 +36,6 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 (Reputation) -> [epicnpc.com](https://www.epicnpc.com/members/reconlx.1167846/)<br /> -->
 
 ---
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AzucarMorena2006&show_icons=true&include_all_commits=true&hide_border=true&theme=merko"/>
 
 **© [AzucarMorena2006](https://github.com/AzucarMorena2006)**
