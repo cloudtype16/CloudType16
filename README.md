@@ -46,6 +46,6 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 
 **© [AzucarMorena2006](https://github.com/AzucarMorena2006)**
 
-[website]: https://is-really.fun
+[website]:
 [twitter]: https://twitter.com/Azucarmorena28
 [server]: https://discord.gg/2qB7bhsQ9M
