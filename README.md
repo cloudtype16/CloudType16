@@ -37,5 +37,6 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 
 ---
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AzucarMorena2006&show_icons=true&include_all_commits=true&hide_border=true&theme=merko"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzucarMorena2006&layout=compact&hide_border=true&theme=merko"/>
 
 **© [AzucarMorena2006](https://github.com/AzucarMorena2006)**
