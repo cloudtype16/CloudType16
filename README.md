@@ -1,17 +1,15 @@
-[<img align="rigth" src="https://cdn.discordapp.com/attachments/789607447252828211/822167211531304990/350kb.gif"/>][server]
 <img align="right" width="200px" src="https://cdn.discordapp.com/attachments/789607447252828211/821845774043185192/vailecito.gif">
 
 
 ```cs
-⇒ 📎 Introduccion Rapida!
-⇒ "Eyyoo! Adicto al código, con lecciones de vida! :)"
+⇒ "Soy Programador y Tambien Configuro Servers"
 ```
-
-- ⬤● **No Duden En Invitar A Mi Bot:**
-- 📣 [Invitacion De Mi Bot](https://discord.com/oauth2/authorize?client_id=803041063862009876&scope=bot&permissions=2147483639)
-- ⬤● **Si Tienes Alguna Duda Unete Al Server De Soporte De Mi Bot:**
-- 🔧 [Invitacion Del Server](https://discord.gg/2qB7bhsQ9M)
-- 💨 **Mi Discord: Mr Pajasツ 2.0#1234**
+## [✨ Mis Repositorios](https://github.com/HugoMelendez0403?tab=repositories)
+### 🤖 Mi Bot
+- ⬤● **No Duden En Invitar A Mi [Bot](https://bit.ly/3p1EFr)**
+- ⬤● **Si Tienes Alguna Duda Unete Al [Server](https://bit.ly/2SCZMUo) De Soporte De Mi Bot**
+- ⬤● **[Mas Informacion](https://github.com/Atomo-Bot/Informacion_Atomo)**
+- 💨 **Mi Discord: Mr Pajas^ツ^2.0#3152**
 <img width="500px" src="https://cdn.discordapp.com/attachments/757469877358297199/760358338809561118/linea-divisoria-imagen-animada-0133.gif"/>
 
 ### ☢ Redes Sociales
@@ -22,7 +20,7 @@
 [<img align="left" alt="HarutoHiroki | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>][discord]
 [<img align="left" alt="HarutoHiroki | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>][github]
 
-<img  width="1000px" src="https://cdn.discordapp.com/attachments/717821702180044862/729449197153157160/BARRA.gif"/>
+<img  width="600px" src="https://cdn.discordapp.com/attachments/717821702180044862/729449197153157160/BARRA.gif"/>
 
 ### 🛠 ***Idiomas y Herramientas*** 🌎
 
@@ -36,55 +34,7 @@
 <img align="left" alt="firebase" width="26px" src="https://i.imgur.com/1RVXvxS.png"/> 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg"/> <br/>
 
-<!-- ### Jobs
-Currently coding discord bots for payments. Send me a message on discord to discuss.<br>
-(Reputation) -> [epicnpc.com](https://www.epicnpc.com/members/reconlx.1167846/)<br /> -->
-
 ---
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AzucarMorena2006&show_icons=true&include_all_commits=true&hide_border=true&theme=merko&locale=es&title_color=D358F7&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000"/>
-<img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzucarMorena2006&hide_border=true&theme=merko&locale=es&title_color=D358F7&&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000&layout="/>
-
-### ✨ [Mis Repositorios](https://github.com/AzucarMorena2006?tab=repositories)
-<a href="https://azucarmorena2006.github.io/div-slide/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzucarMorena2006&repo=div-slide&hide_border=ocult&locale=es&title_color=D358F7&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000"/>
-</a>
-
-<a href="https://azucarmorena2006.github.io/flappy-bird/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzucarMorena2006&repo=flappy-bird&hide_border=ocult&locale=es&title_color=D358F7&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000"/>
-</a>
-
-<a href="https://azucarmorena2006.github.io/subway-surfers/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzucarMorena2006&repo=subway-surfers&hide_border=ocult&locale=es&title_color=D358F7&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000"/>
-</a>
-
-<a href="https://azucarmorena2006.github.io/dinusaurio/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzucarMorena2006&repo=dinosaurio&hide_border=ocult&locale=es&title_color=D358F7&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000"/>
-</a>
-
-<a href="https://azucarmorena2006.github.io/fall-game/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzucarMorena2006&repo=fall-game&hide_border=ocult&locale=es&title_color=D358F7&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000"/>
-</a>
-
-<a href="https://azucarmorena2006.github.io/gato/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzucarMorena2006&repo=gato&hide_border=ocult&locale=es&title_color=D358F7&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000"/>
-</a>
-
-<a href="https://github.com/AzucarMorena2006/Comandos-Discord.js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzucarMorena2006&repo=Comandos-Discord.js&hide_border=ocult&locale=es&title_color=D358F7&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000"/>
-</a>
-
-<a href="https://github.com/AzucarMorena2006/Estructura-handler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzucarMorena2006&repo=Estructura-handler&hide_border=ocult&locale=es&title_color=D358F7&text_color=FF0040&icon_color=2EFEF7&bg_color=DEG,240B3B,220A29,2A0A22,190714,000"/>
-</a>
-
-<a href="https://github.com/AzucarMorena2006/estructura-inicial-de-bot-discord.js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzucarMorena2006&repo=estructura-inicial-de-bot-discord.js&locale=es&title_color=D358F7&icon_color=2EFEF7&text_color=FF0040&bg_color=DEG,240B3B,220A29,2A0A22,190714,000&hide_border=ocult"/>
-</a>
-
-<a href="https://github.com/AzucarMorena2006/proyecto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzucarMorena2006&repo=proyecto&locale=es&title_color=D358F7&icon_color=2EFEF7&text_color=FF0040&bg_color=DEG,240B3B,220A29,2A0A22,190714,000&hide_border=ocult"/>
-</a>
 
 **© [AzucarMorena2006](https://github.com/AzucarMorena2006)**
 
