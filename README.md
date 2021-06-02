@@ -36,6 +36,8 @@
 
 ---
 
+<img src="https://github-readme-stats.vercel.app/api?username=HugoMelendez0403&show_icons=true&theme=cobalt&count_private=true">
+
 **© [AzucarMorena2006](https://github.com/AzucarMorena2006)**
 
 [website]: #
