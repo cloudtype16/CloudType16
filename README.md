@@ -36,13 +36,13 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=HugoMelendez0403&show_icons=true&theme=cobalt&count_private=true">
+[<img src="https://github-readme-stats.vercel.app/api?username=HugoMelendez0403&show_icons=true&theme=cobalt&count_private=true">](https://github.com/HugoMelendez0403)
 
-**© [AzucarMorena2006](https://github.com/AzucarMorena2006)**
+**© [AzucarMorena2006](https://github.com/HugoMelendez0403)**
 
 [website]: #
 [twitter]: https://twitter.com/Azucarmorena28
 [twitch]: https://www.twitch.tv/mrpajas28
 [discord]: https://discord.gg/2qB7bhsQ9M 
-[github]: https://github.com/AzucarMorena2006
+[github]: https://github.com/HugoMelendez0403
 [server]: https://discord.gg/2qB7bhsQ9M
