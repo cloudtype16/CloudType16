@@ -2,7 +2,7 @@
 
 
 ```cs
-⇒ "Soy Programador y Tambien Configuro Servers"
+⇒ "Soy Programador y Modero, Tambien Configuro Servers De Discord"
 ```
 ## [✨ Mis Repositorios](https://github.com/HugoMelendez0403?tab=repositories)
 ### 🤖 Mi Bot
