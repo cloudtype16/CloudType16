@@ -1,9 +1,12 @@
 <img align="right" width="200px" src="https://cdn.discordapp.com/attachments/789607447252828211/821845774043185192/vailecito.gif">
 
-
-```cs
+<details>
+  <summary>Click👆</summary>
+  <pre>
 ⇒ "Soy Programador y Modero, Tambien Configuro Servers De Discord"
-```
+  </pre>
+</details>
+
 ## [✨ Mis Repositorios](https://github.com/HugoMelendez0403?tab=repositories)
 ### 🤖 Mi Bot
 - ⬤● **No Duden En Invitar A Mi [Bot](https://bit.ly/3p1EFr)**
