@@ -38,6 +38,12 @@
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg"/> <br/>
 
 ---
+<p align="center">
+  <a href="https://andyruwruw.vercel.app/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://andyruwruw.vercel.app/api/now-playing">
+  </a>
+</p>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=HugoMelendez0403&show_icons=true&theme=cobalt&count_private=true">](https://github.com/HugoMelendez0403)
 
