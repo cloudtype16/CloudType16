@@ -1,11 +1,18 @@
 <img align="right" width="200px" src="https://cdn.discordapp.com/attachments/789607447252828211/821845774043185192/vailecito.gif">
 
 <details>
-  <summary>Click 👆</summary>
+  <summary align="center">Click 👆</summary>
   <pre>
 ⇒ "Soy Programador y Modero, Tambien Configuro Servers De Discord"
   </pre>
 </details>
+<p align="center">
+  <a href="https://andyruwruw.vercel.app/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://andyruwruw.vercel.app/api/now-playing">
+  </a>
+</p>
+
 
 ## [✨ Mis Repositorios](https://github.com/HugoMelendez0403?tab=repositories)
 ### 🤖 Mi Bot
@@ -38,12 +45,6 @@
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg"/> <br/>
 
 ---
-<p align="center">
-  <a href="https://andyruwruw.vercel.app/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://andyruwruw.vercel.app/api/now-playing">
-  </a>
-</p>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=HugoMelendez0403&show_icons=true&theme=cobalt&count_private=true">](https://github.com/HugoMelendez0403)
 
