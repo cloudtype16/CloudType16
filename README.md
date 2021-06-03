@@ -1,7 +1,7 @@
 <img align="right" width="200px" src="https://cdn.discordapp.com/attachments/789607447252828211/821845774043185192/vailecito.gif">
 
 <details>
-  <summary>Click👆</summary>
+  <summary>Click 👆</summary>
   <pre>
 ⇒ "Soy Programador y Modero, Tambien Configuro Servers De Discord"
   </pre>
