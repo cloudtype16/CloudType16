@@ -50,6 +50,8 @@
 
 **© [AzucarMorena2006](https://github.com/HugoMelendez0403)**
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=HugoMelendez0403)
+
 [website]: #
 [twitter]: https://twitter.com/Azucarmorena28
 [twitch]: https://www.twitch.tv/mrpajas28
