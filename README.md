@@ -3,7 +3,7 @@
 <details>
   <summary align="center">Click 👆</summary>
   <pre>
-⇒ "Soy Programador y Modero, Tambien Configuro Servers De Discord"
+⇒ "Soy Programador, Modero y Configuro Servers De Discord"
   </pre>
 </details>
     
