@@ -6,14 +6,7 @@
 ⇒ "Soy Programador y Modero, Tambien Configuro Servers De Discord"
   </pre>
 </details>
-<p align="center">
-  <a href="https://andyruwruw.vercel.app/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://andyruwruw.vercel.app/api/now-playing">
-  </a>
-</p>
-
-
+    
 ## [✨ Mis Repositorios](https://github.com/HugoMelendez0403?tab=repositories)
 ### 🤖 Mi Bot
 - ⬤● **No Duden En Invitar A Mi [Bot](https://bit.ly/3p1EFri)**
@@ -46,6 +39,7 @@
 
 ---
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21mq4525vsrdtybzzjwnad52a)
 [<img src="https://github-readme-stats.vercel.app/api?username=HugoMelendez0403&show_icons=true&theme=cobalt&count_private=true">](https://github.com/HugoMelendez0403)
 
 **© [AzucarMorena2006](https://github.com/HugoMelendez0403)**
