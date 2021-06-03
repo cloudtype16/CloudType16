@@ -9,7 +9,7 @@
 
 ## [✨ Mis Repositorios](https://github.com/HugoMelendez0403?tab=repositories)
 ### 🤖 Mi Bot
-- ⬤● **No Duden En Invitar A Mi [Bot](https://bit.ly/3p1EFr)**
+- ⬤● **No Duden En Invitar A Mi [Bot](https://bit.ly/3p1EFri)**
 - ⬤● **Si Tienes Alguna Duda Unete Al [Server](https://bit.ly/2SCZMUo) De Soporte De Mi Bot**
 - ⬤● **[Mas Informacion](https://github.com/Atomo-Bot/Informacion_Atomo)**
 - 💨 **Mi Discord: Mr Pajas^ツ^2.0#3152**
