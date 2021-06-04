@@ -39,7 +39,8 @@
 
 ---
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21mq4525vsrdtybzzjwnad52a)
+[<img src="https://spotify-recently-played-readme.vercel.app/api?user=21mq4525vsrdtybzzjwnad52a">](https://open.spotify.com/user/21mq4525vsrdtybzzjwnad52a)
+
 [<img src="https://github-readme-stats.vercel.app/api?username=HugoMelendez0403&show_icons=true&theme=cobalt&count_private=true">](https://github.com/HugoMelendez0403)
 
 **© [AzucarMorena2006](https://github.com/HugoMelendez0403)**
