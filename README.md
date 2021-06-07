@@ -12,7 +12,7 @@
 - ⬤● **No Duden En Invitar A Mi [Bot](https://bit.ly/3p1EFri)**
 - ⬤● **Si Tienes Alguna Duda Unete Al [Server](https://bit.ly/2SCZMUo) De Soporte De Mi Bot**
 - ⬤● **[Mas Informacion](https://github.com/Atomo-Bot/Informacion_Atomo)**
-- 💨 **Mi Discord: Mr Pajas^ツ^2.0#3152**
+- 💨 **Mi Discord: Mr Pajas^^ 2.0#3152**
 <img width="500px" src="https://cdn.discordapp.com/attachments/757469877358297199/760358338809561118/linea-divisoria-imagen-animada-0133.gif"/>
 
 ### ☢ Redes Sociales
