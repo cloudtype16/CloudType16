@@ -12,7 +12,7 @@
 - ⬤● **No Duden En Invitar A Mi [Bot](https://bit.ly/3p1EFri)**
 - ⬤● **Si Tienes Alguna Duda Unete Al [Server](https://bit.ly/2SCZMUo) De Soporte De Mi Bot**
 - ⬤● **[Mas Informacion](https://github.com/Atomo-Bot/Informacion_Atomo)**
-- 💨 **Mi Discord: </Mr Pajas^^2.0>#3152**
+- 💨 **Mi Discord: [</Mr Pajas^^2.0>#3152](https://discord.com/users/763852642803515402)**
 <img width="500px" src="https://cdn.discordapp.com/attachments/757469877358297199/760358338809561118/linea-divisoria-imagen-animada-0133.gif"/>
 
 ### ☢ Redes Sociales
@@ -50,5 +50,5 @@
 [website]: https://Hugomelendez0403.github.io/Perfil/
 [twitter]: https://twitter.com/Azucarmorena28
 [twitch]: https://www.twitch.tv/mrpajas28
-[discord]: https://discord.gg/DKVEnu4TXd
+[discord]: https://discord.com/users/763852642803515402
 [github]: https://github.com/HugoMelendez0403
