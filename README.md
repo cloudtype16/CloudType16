@@ -7,12 +7,12 @@
   </pre>
 </details>
     
-## [✨ Mis Repositorios](https://github.com/HugoMelendez0403?tab=repositories)
+## [✨ Mis Repositorios](https://github.com/CloudType2006?tab=repositories)
 ### 🤖 Mi Bot
-- ⬤● **No Duden En Invitar A Mi [Bot](https://bit.ly/3p1EFri)**
-- ⬤● **Si Tienes Alguna Duda Unete Al [Server](https://bit.ly/2SCZMUo) De Soporte De Mi Bot**
-- ⬤● **[Mas Informacion](https://github.com/Atomo-Bot/Informacion_Atomo)**
-- 💨 **Mi Discord: [</Mr Pajas^^2.0>#3152](https://discord.com/users/763852642803515402)**
+<!-- - ⬤● **No Duden En Invitar A Mi [Bot](https://bit.ly/3p1EFri)** -->
+- ⬤● **Si Tienes Alguna Duda Unete Mi [Server](https://discord.gg/xAY4faeBn2)**
+<!-- - ⬤● **[Mas Informacion](https://github.com/Atomo-Bot/Informacion_Atomo)** -->
+- 💨 **Mi Discord: [Cloud Type#1111](https://discord.com/users/924029917484707841)**
 <img width="500px" src="https://cdn.discordapp.com/attachments/757469877358297199/760358338809561118/linea-divisoria-imagen-animada-0133.gif"/>
 
 ### ☢ Redes Sociales
@@ -43,12 +43,12 @@
 
 [<img src="https://github-readme-stats.vercel.app/api?username=HugoMelendez0403&show_icons=true&theme=cobalt&count_private=true">](https://github.com/HugoMelendez0403)
 
-**© [AzucarMorena2006](https://github.com/HugoMelendez0403)**
+**© [Hugo Melendez](https://github.com/CloudType2006)**
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=HugoMelendez0403)
+![Profile View Counter](https://komarev.com/ghpvc/?username=CloudType2006)
 
-[website]: https://Hugomelendez0403.github.io/Perfil/
-[twitter]: https://twitter.com/Azucarmorena28
+[website]: https://cloudtype2006.github.io/
+[twitter]: https://twitter.com/_Hugo_Melendez
 [twitch]: https://www.twitch.tv/mrpajas28
-[discord]: https://discord.com/users/763852642803515402
-[github]: https://github.com/HugoMelendez0403
+[discord]: https://discord.com/users/924029917484707841
+[github]: https://github.com/CloudType2006
